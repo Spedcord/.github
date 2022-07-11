@@ -19,6 +19,6 @@ Spedcord is aiming to be the next generation of virtual trucking company manager
 
 <p align="center">
     <a href="https://discord.gg/jnTjWFP">
-        <img width="200px" src="https://media.spedcord.xyz/join_discord.png"/>
+        <img width="200px" src="https://media.spedcord.xyz/join_discord.png?"/>
     </a>
 </p>
