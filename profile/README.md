@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://media.spedcord.xyz/logo_transp.png"/>
+    <img src="https://media.spedcord.xyz/logo_transp.png#gh-dark-mode-only"/>
+    <img src="https://media.spedcord.xyz/logo_transp_outline.png#gh-light-mode-only"/>
 </p>
 
 <h2 align="center">Welcome to Spedcord!</h2>
